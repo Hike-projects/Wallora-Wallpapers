@@ -1,0 +1,2 @@
+/workspaces/Wallora-Wallpapers/app/android/app/.cxx/RelWithDebInfo/29583m6l/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/workspaces/Wallora-Wallpapers/app/android/app/.cxx/RelWithDebInfo/29583m6l/armeabi-v7a/CMakeFiles/edit_cache.dir
